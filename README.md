@@ -13,6 +13,7 @@
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Juan-2D" src="https://media.discordapp.net/attachments/790777588230389783/875079058235482172/SPOILER_ezgif.com-crop.gif?width=320&height=300">
 </div>
 
 ##
