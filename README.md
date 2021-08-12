@@ -1,4 +1,4 @@
-## Hello there! I'm Juan Formoso
+## Hello there! I'm Juan Victor
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
 - 🌱 I’m currently learning Javascript
