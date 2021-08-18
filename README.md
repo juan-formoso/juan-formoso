@@ -1,7 +1,7 @@
 ## Hello there! I'm Juan Victor
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning automated tests with Jest
+- 🌱 I’m currently learning about automated tests with Jest
 - 🔭 I’m interested in web development, cryptocurrencies, AI and games development
 
 <div>
