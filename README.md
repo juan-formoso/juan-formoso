@@ -1,8 +1,8 @@
 ## Hello there! I'm Juan Victor
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning about React.JS
-- 🔭 I’m interested in web development, cryptocurrencies, AI and games development
+- 🌱 I’m currently learning about Redux
+- 🔭 I’m interested in web development, cryptocurrencies and cyber security
 
 <div>
   <a href="https://github.com/juan-formoso">
