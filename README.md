@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
 - 🌱 I’m currently learning about Context API and React Hooks
-- 🔭 I’m interested in web development, IA and cyber security
+- 🔭 I’m interested in back end
 
 <div>
   <a href="https://github.com/juan-formoso">
