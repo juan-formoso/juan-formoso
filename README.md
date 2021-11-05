@@ -34,6 +34,4 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
 	  title="Linkedin Juan Formoso" width="20%" height="auto" />
   </a>
-  
-  ![Snake animation](https://github.com/juan-formoso/juan-formoso/blob/output/github-contribution-grid-snake.svg)
 </div>
