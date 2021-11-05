@@ -1,4 +1,4 @@
-## Hello there! I'm Juan Victor
+## Hello there! I'm Juan Formoso
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
 - 🌱 I’m currently learning about Context API and React Hooks
