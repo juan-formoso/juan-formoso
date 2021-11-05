@@ -1,3 +1,9 @@
+<div align="center">
+  <img align="center" alt="coding-gif" src="https://media.discordapp.net/attachments/379308680413446166/906026008929525760/SPOILER_code-coding.gif?width=375&height=375">
+</div>
+
+<br>
+
 ## Hello there! I'm Juan Formoso
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
