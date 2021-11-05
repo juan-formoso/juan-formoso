@@ -18,7 +18,7 @@
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img align="right" alt="Juan-2D" src="https://media.discordapp.net/attachments/790777588230389783/875079058235482172/SPOILER_ezgif.com-crop.gif?width=240&height=200">
+  <img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=325&height=325">
 </div>
 
 ##
