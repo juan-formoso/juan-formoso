@@ -7,8 +7,8 @@
 ## Hello there! I'm Juan Formoso
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning about Context API and React Hooks
-- 🔭 I’m interested in web development, AI and cryptocurrencies
+- 🌱 I’m currently learning about React Hooks and Context API
+- 🔭 I’m interested in web development and AI
 
 <div>
   <a href="https://github.com/juan-formoso">
