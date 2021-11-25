@@ -7,7 +7,7 @@
 ## Hello there! I'm Juan Formoso
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning about React Hooks and Context API
+- 🌱 I’m currently learning about Docker
 - 🔭 I’m interested in web development and AI
 
 <div>
