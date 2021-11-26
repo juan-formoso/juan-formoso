@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
 - 🌱 I’m currently learning about Docker
-- 🔭 I’m interested in web development and AI
+- 🔭 I’m interested in web development, AI and blockchain
 
 <div>
   <a href="https://github.com/juan-formoso">
