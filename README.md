@@ -4,7 +4,7 @@
 
 <br>
 
-## Hello there! I'm Juan Formoso
+## Hello there! I'm Juan
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
 - 🌱 I’m currently learning about Docker
