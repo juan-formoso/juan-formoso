@@ -7,7 +7,7 @@
 ## Hello there! I'm Juan
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning about SQL and relational database
+- 🌱 I’m currently learning about SQL and relational database. I'm also studying about pentest and bug bounty...                 
 - 🔭 I’m interested in web development, AI, blockchain and cybersecurity
 
 <div>
