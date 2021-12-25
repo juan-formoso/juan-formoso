@@ -7,8 +7,8 @@
 ## Hello there! I'm Juan
 
 - 😄 Pronouns: he/him/his (EN) | ele/dele (PT)
-- 🌱 I’m currently learning about SQL, relational database and ethical hacking
-- 🔭 I’m interested in web development, AI, blockchain and cybersecurity
+- 🌱 I’m currently learning about SQL, databases and ethical hacking
+- 🔭 I’m interested in back-end development, blockchain and cybersecurity
 
 <div>
   <a href="https://github.com/juan-formoso">
