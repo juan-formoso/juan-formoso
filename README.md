@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning about SQL, databases and ethical hacking
 - 🔭 I’m interested in back-end development, blockchain and cybersecurity
-- My Website: https://juanvformoso.netlify.app/
 
 <div>
   <a href="https://github.com/juan-formoso">
