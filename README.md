@@ -6,7 +6,7 @@
 
 ## Hello there! I'm Juan
 
-- 🌱 I’m currently learning about SQL, databases and ethical hacking
+- 🌱 I’m currently learning about Node.js
 - 🔭 I’m interested in back-end development, blockchain and cybersecurity
 
 <div>
