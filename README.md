@@ -7,7 +7,7 @@
 ## Hello there! I'm Juan
 
 - 🌱 I’m currently learning about Node.js
-- 🔭 I’m interested in web development, blockchain and cybersecurity
+- 🔭 I’m interested in web development and blockchain
 
 <div>
   <a href="https://github.com/juan-formoso">
