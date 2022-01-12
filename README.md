@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning about Node.js
 - 🔭 I’m interested in web development and blockchain
+- teste
 
 <div>
   <a href="https://github.com/juan-formoso">
