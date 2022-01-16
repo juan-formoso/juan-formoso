@@ -6,15 +6,17 @@
 
 ## I'm a Brother, Student and Web Developer!!
 
-- 🔭 I’m currently learning about Node.js!
 - 🌱 I'm 19 years old
+- 🔭 I’m currently learning about Node.js!
 - 👯 I’m trying to be a better version of myself everyday
 - 🥅 2021 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to play league of legends and watch Boruto and Attack on Titan
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/juanvformoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/juanvformoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:trajano.juan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/Juaan_vf" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/juan-formoso">
