@@ -18,6 +18,9 @@
 <img align="left" alt="Juan Formoso | LinkedIn" href="https://www.linkedin.com/in/juanvformoso/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="Juan Formoso | Gmail" href="mailto:trajano.juan@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
+<br />
+<br />
+
 <div>
   <a href="https://github.com/juan-formoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-formoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
