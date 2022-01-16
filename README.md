@@ -36,8 +36,9 @@
 <br />
 
 ---
-<img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
+<img alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
 
+---
 <div>
   <a href="https://github.com/juan-formoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-formoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
