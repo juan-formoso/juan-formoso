@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/juanvformoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:trajano.juan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/Juaan_vf" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/Juaan_vf" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ### Languages and Tools:
 
@@ -44,3 +44,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-formoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-formoso&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+---
+<summary>:zap:
+  <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">
+    My favorite podcast
+  </a>
+</summary>
+<summary>:zap:
+  <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">
+    Some good music to listen
+  </a>
+</summary>
+<summary>:zap:
+  <a href="https://juanvformoso.netlify.app/" target="_blank">
+    Personal Portfolio Website
+  </a>
+</summary>
