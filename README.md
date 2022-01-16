@@ -35,10 +35,16 @@
 <br />
 <br />
 
----
+##
 - <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">:zap: My favorite podcast </a>
 - <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">:zap: Some real good music </a>
 - <a href="https://juanvformoso.netlify.app/" target="_blank">:zap: Personal Portfolio Website </a>
+
+---
+
+<div align="center">
+  <img align="center" alt="chill-gif" src="https://media.discordapp.net/attachments/379308680413446166/932415913142140938/kekw.gif?width=900&height=200">
+</div>
 
 ---
 <div>
