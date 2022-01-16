@@ -14,12 +14,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Juan Formoso | Twitter" href="https://twitter.com/Juaan_vf" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Juan Formoso | LinkedIn" href="https://www.linkedin.com/in/juanvformoso/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Juan Formoso | Gmail" href="mailto:trajano.juan@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-
-<br />
-<br />
+<a href="https://www.linkedin.com/in/juanvformoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/juan-formoso">
