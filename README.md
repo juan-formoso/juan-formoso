@@ -1,13 +1,22 @@
+### Hello there! I'm Juan Formoso - but you can call me [Juan](https://juanvformoso.netlify.app/)
+
 <div align="center">
   <img align="center" alt="coding-gif" src="https://media.discordapp.net/attachments/379308680413446166/906026008929525760/SPOILER_code-coding.gif?width=375&height=375">
 </div>
 
-<br>
+## I'm a Brother, Student and Web Developer!!
 
-## Hello there! I'm Juan
+- 🔭 I’m currently learning about Node.js!
+- 🌱 I'm 19 years old
+- 👯 I’m trying to be a better version of myself everyday
+- 🥅 2021 Goals: Graduate and get my first job as a Web Developer
+- ⚡ Fun fact: I love to play league of legends and watch Boruto and Attack on Titan
 
-- 🌱 I’m currently learning about Node.js
-- 🔭 I’m interested in web development and blockchain
+### Connect with me:
+
+[<img align="left" alt="Juan Formoso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Juaan_vf]
+[<img align="left" alt="Juan Formoso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/juanvformoso/]
+[<img align="left" alt="Juan Formoso | Gmail" href="mailto:trajano.juan@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 
 <div>
   <a href="https://github.com/juan-formoso">
@@ -25,13 +34,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/juanvformoso/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
-	  title="Linkedin Juan Formoso" width="20%" height="auto" />
-  </a>
 </div>
