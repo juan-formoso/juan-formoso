@@ -1,4 +1,4 @@
-### Hello there! I'm Juan Formoso - but you can call me [Juan](https://juanvformoso.netlify.app/)
+### Hello there! I'm Juan Formoso - but you can call me [Juan](https://juanvformoso.netlify.app/) 👋 
 
 <div align="center">
   <img align="center" alt="coding-gif" src="https://media.discordapp.net/attachments/379308680413446166/906026008929525760/SPOILER_code-coding.gif?width=375&height=375">
