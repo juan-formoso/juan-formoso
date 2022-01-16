@@ -40,7 +40,7 @@
 - <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">:zap: Some real good music </a>
 - <a href="https://juanvformoso.netlify.app/" target="_blank">:zap: Personal Portfolio Website </a>
 
-<img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=350&height=350">
+<img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=300&height=300">
 
 ---
 <div>
