@@ -36,21 +36,9 @@
 <br />
 
 ---
-<summary>:zap:
-  <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">
-    My favorite podcast
-  </a>
-</summary>
-<summary>:zap:
-  <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">
-    Some good music to listen
-  </a>
-</summary>
-<summary>:zap:
-  <a href="https://juanvformoso.netlify.app/" target="_blank">
-    Personal Portfolio Website
-  </a>
-</summary>
+- <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">:zap: My favorite podcast </a>
+- <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">:zap: Some real good music </a>
+- <a href="https://juanvformoso.netlify.app/" target="_blank">:zap: Personal Portfolio Website </a>
 
 <img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
 
