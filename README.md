@@ -36,16 +36,6 @@
 <br />
 
 ---
-<img alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
-
----
-<div>
-  <a href="https://github.com/juan-formoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-formoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-formoso&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
 <summary>:zap:
   <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">
     My favorite podcast
@@ -61,3 +51,12 @@
     Personal Portfolio Website
   </a>
 </summary>
+
+<img align="right" alt="Cute-Zed" src="https://media.discordapp.net/attachments/379308680413446166/906018769665654844/SPOILER_cuteZed-removebg-preview.png?width=200&height=200">
+
+---
+<div>
+  <a href="https://github.com/juan-formoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-formoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-formoso&layout=compact&langs_count=7&theme=dark"/>
+</div>
