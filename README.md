@@ -8,7 +8,7 @@
 
 - 🌱 I'm 19 years old
 - 🔭 I’m currently learning about Node.js!
-- 👯 I’m trying to be a better version of myself everyday
+- 👯 I’m trying to do better everyday
 - 🥅 2021 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to play league of legends and watch Boruto and Attack on Titan
 
