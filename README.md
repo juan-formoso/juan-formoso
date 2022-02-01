@@ -7,7 +7,7 @@
 ## I'm a Brother, Student and Web Developer!!
 
 - 🌱 I'm 19 years old
-- 🔭 I’m currently learning about Node.js!
+- 🔭 I’m currently learning about Node.js, ORM and authentification!
 - 👯 I’m trying to do better everyday
 - 🥅 2021 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to play league of legends and watch Boruto and Attack on Titan
