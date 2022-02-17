@@ -7,7 +7,7 @@
 ## I'm a Brother, Student and Web Developer!!
 
 - 🌱 I'm 19 years old
-- 🔭 I’m currently learning about Deployment!
+- 🔭 I’m currently learning about TypeScript!
 - 👯 I’m trying to do better everyday
 - 🥅 2021 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to watch Attack on Titan, Boruto, Demon Slayer and play league of legends
