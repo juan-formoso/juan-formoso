@@ -1,4 +1,4 @@
-### Hello there! I'm Juan Formoso - but you can call me [Juan](https://juanvformoso.netlify.app/) 👋 
+### Hello there! I'm Juan 👋 
 
 <div align="center">
   <img align="center" alt="coding-gif" src="https://media.discordapp.net/attachments/379308680413446166/906026008929525760/SPOILER_code-coding.gif?width=375&height=375">
@@ -38,7 +38,7 @@
 ##
 - <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">:zap: My favorite podcast </a>
 - <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">:zap: Some real good music </a>
-- <a href="https://juanvformoso.netlify.app/" target="_blank">:zap: Personal Portfolio Website </a>
+- <a href="https://github.com/juan-formoso/my-projects" target="_blank">:zap: You can find all my projects here </a>
 
 ---
 
