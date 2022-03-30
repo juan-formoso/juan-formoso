@@ -9,7 +9,7 @@
 - 🌱 I'm 19 years old
 - 🔭 I’m currently learning about MongoDB!
 - 👯 I’m trying to do better everyday
-- 🥅 2021 Goals: Graduate and get my first job as a Web Developer
+- 🥅 2022 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to watch Attack on Titan, Boruto and play league of legends
 
 ### Connect with me:
