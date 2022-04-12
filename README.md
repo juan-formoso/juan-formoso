@@ -7,7 +7,7 @@
 ## I'm a Brother, Student and Web Developer!!
 
 - 🌱 I'm 19 years old
-- 🔭 I’m currently learning about MongoDB!
+- 🔭 I’m currently learning about OOP!
 - 👯 I’m trying to do better everyday
 - 🥅 2022 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to watch Attack on Titan, Boruto and play league of legends
@@ -30,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" align="left" width="40px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="left" width="40px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left" width="40px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="left" width="40px" />
 </div>
 
 <br />
