@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning about OOP!
 - 👯 I’m trying to do better everyday
 - 🥅 2022 Goals: Graduate and get my first job as a Web Developer
-- ⚡ Fun fact: I love to watch Attack on Titan, Boruto and play league of legends
+- ⚡ Fun fact: I love to watch anime and play games with my friends
 
 ### Connect with me:
 
