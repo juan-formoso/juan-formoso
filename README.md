@@ -7,7 +7,7 @@
 ## I'm a Brother, Student and Web Developer!!
 
 - 🌱 I'm 19 years old
-- 🔭 I’m currently learning about OOP!
+- 🔭 I’m currently learning about Python!
 - 👯 I’m trying to do better everyday
 - 🥅 2022 Goals: Graduate and get my first job as a Web Developer
 - ⚡ Fun fact: I love to watch anime and play games with my friends
