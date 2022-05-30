@@ -1,11 +1,5 @@
 ### Hello there! I'm Juan 👋 
 
-<div align="center">
-  <img align="center" alt="coding-gif" src="https://media.discordapp.net/attachments/379308680413446166/906026008929525760/SPOILER_code-coding.gif?width=375&height=375">
-</div>
-
-## I'm a Brother, Student and Web Developer!!
-
 - 🌱 I'm 19 years old
 - 🔭 I’m currently learning about Python!
 - 👯 I’m trying to do better everyday
