@@ -4,7 +4,6 @@
 - 🔭 I’m currently learning about Python!
 - 👯 I’m trying to do better everyday
 - 🥅 2022 Goals: Graduate and get my first job as a Web Developer
-- ⚡ Fun fact: I love to watch anime and play games with my friends
 
 ### Connect with me:
 
@@ -30,11 +29,6 @@
 
 <br />
 <br />
-
-##
-- <a href="https://open.spotify.com/show/2ztVJPyscJurgtYodrgJGy" target="_blank">:zap: My favorite podcast </a>
-- <a href="https://open.spotify.com/playlist/0aRfh68YhlpulZ1mKl9Al9?si=F1oMoTC5TP2J4ndkZ5-p_A&utm_source=copy-link&dl_branch=1&nd=1" target="_blank">:zap: Some real good music </a>
-- <a href="https://github.com/juan-formoso/my-projects" target="_blank">:zap: You can find all my projects here </a>
 
 ---
 
