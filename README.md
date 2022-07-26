@@ -1,14 +1,3 @@
-### Hello there! I'm Juan 👋 
-
-- 🌱 I'm 19 years old
-- 🔭 I’m currently learning about Python!
-- 👯 I’m trying to do better everyday
-- 🥅 2022 Goals: Graduate and get my first job as a Web Developer
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/juanvformoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 ### Languages and Tools:
 
 <div style="display: inline_block"><br>
