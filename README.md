@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img align="center" alt="chill-gif" src="https://media.discordapp.net/attachments/379308680413446166/932415913142140938/kekw.gif?width=900&height=200">
+  <img align="center" alt="cat-computer-gif" src="https://media.discordapp.net/attachments/945086745802858598/1076249356585402378/cat-computer.gif?width=400&height=280">
 </div>
 
 ---
